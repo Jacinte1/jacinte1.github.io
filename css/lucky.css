@@ -6,3 +6,9 @@ body {
     font-weight: 400;
     font-style: normal;
 }
+#banner{
+height: 400px;
+}
+.banner{
+background-image: url(jacinte1.github.io/img/banner.jpg);
+}
