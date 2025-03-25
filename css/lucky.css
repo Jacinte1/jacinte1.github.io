@@ -23,8 +23,41 @@ background-image: url(jacinte1.github.io/img/banner.jpg);
     box-shadow: 0px 0px 5px #1f5b25
 }
 .kave>h2{
+    position: relative;
     font-size: 1rem;
     text-align: center;
     margin-top: 1rem;
     margin-bottom: 1rem;
     font-variant: small-caps;}
+
+#sunflower{
+    
+    width: 40px;
+    position:absolute;
+    top: 10px;
+    right: 20px;    
+    
+}
+h1{
+    font-family: fantasy, cursive;
+    color: #1f5b25;
+    text-align: center;
+}
+
+.footer{
+    background-color:#1f5b25;
+    color: white;
+}
+
+footer li{
+    list-style-type: none;
+}
+
+footer li>img{
+    width:15px;
+    margin-right:10px
+
+}
+h2{
+    margin-top: ;
+}
